@@ -52,11 +52,11 @@
   },
   "custom": [
     {
-      "name": "es6-module-transpiler",
-      "homepage": "http://esnext.github.io/es6-module-transpiler/",
-      "html_url": "https://github.com/esnext/es6-module-transpiler",
-      "description": "Tomorrow’s JavaScript module syntax today",
-      "categories": ["JavaScript"]
+      "name": "iOS-SampleApps",
+      "homepage": "http://loupca.github.io/iOS-SampleApps/",
+      "html_url": "https://github.com/loupca/iOS-SampleApps",
+      "description": "Sample Apps for iOS",
+      "categories": ["iOS"]
     }
   ]
 }
