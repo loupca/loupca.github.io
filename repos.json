@@ -1,0 +1,14 @@
+{
+  "repos": {
+    "wire": ["Android", "Java"]
+  },
+  "custom": [
+    {
+      "name": "iOS-SampleApps",
+      "homepage": "http://loupca.github.io/iOS-SampleApps/",
+      "html_url": "https://github.com/loupca/iOS-SampleApps",
+      "description": "Sample Apps for iOS",
+      "categories": ["iOS"]
+    }
+  ]
+}
