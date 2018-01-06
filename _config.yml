@@ -19,13 +19,13 @@ title: LoupCa + Open Source
 email: community@loupca.com
 description: The open source GitHub page for the LoupCa.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://parseplatform.org/" # the base hostname & protocol for your site
-repository: caapim/caapim.github.io
-facebook_username: parseit
-twitter_username:  parseplatform
-github_username:   caapim
-stackoverflow_tag: parse.com
-serverfault_tag:   parse
+url: "http://loupca.github.io/" # the base hostname & protocol for your site
+repository: loupca/loupca.github.io
+facebook_username: loupca
+twitter_username:  loupca
+github_username:   loupca
+stackoverflow_tag: loupca
+serverfault_tag:   loupca
 
 
 # title: Your awesome title
