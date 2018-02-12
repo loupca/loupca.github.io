@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 name: LoupCa Open Source Hub
-title: LoupCa + Open Source
+title: LoupCa IT Solutions Inc.
 email: community@loupca.com
 description: The open source GitHub page for the LoupCa.
 baseurl: "" # the subpath of your site, e.g. /blog
